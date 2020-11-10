@@ -57,13 +57,4 @@
 
 [2η ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ](https://asciinema.org/a/fHScefn9ifuTOF9I4Q6ts7eCx)
 ## 5ο ΠΑΡΑΔΟΤΕΟ
-[σσ](<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
-</head>
-<body>
-  <asciinema-player src="/371539.cast" cols="120" rows="41"></asciinema-player>
-  ...
-  <script src="/asciinema-player.js"></script>
-</body>
-</html>)
+

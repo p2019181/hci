@@ -56,5 +56,6 @@
 Σε αυτή την άσκηση γραμμής εντολών αποφασίσαμε να κάνουμε την άσκηση text editor and plug-ins for code highlighting and autocompletion 	edit the vim or the shell configuration file 	vim. Δηλαδή έπρεπε να κάνουμε  κάποιες λειτουργίες στο vim όπως να δημιουργήσυμε ένα φάκελο να γράψουμε ένα μικρό κείμενο να το αποθηκεύσουμε και ύστερα το επεξεργαστήκαμε.Κάναμε την αντιγραφή μιας γραμμής τη διαγραφή μιας γραμμής/ενός γράμματος/μιας λέξης.   
 
 [2η ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ](https://asciinema.org/a/fHScefn9ifuTOF9I4Q6ts7eCx)
+[wwe](<a href="https://asciinema.org/a/T1nVVXxGio65HvhffUmXrrsWy" target="_blank"><img src="https://asciinema.org/a/T1nVVXxGio65HvhffUmXrrsWy.svg" /></a>)
 ## 5ο ΠΑΡΑΔΟΤΕΟ
 

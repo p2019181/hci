@@ -12,10 +12,10 @@
 | 4 | 2η Άσκηση προγραμματισμού [ΑΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ](https://github.com/p2019181/hci/blob/2019181/projects/2019181/README.md#3%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF)|
 | 5 | 2η Άσκηση γραμμής εντολών [ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ](https://github.com/p2019181/hci/blob/2019181/projects/2019181/README.md#4o-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF)|
 | 6 | 1ο Συμμετοχικό περιεχόμενο|
-| 7 | 3η Άσκηση προγραμματισμού [ΑΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ]|(https://github.com/p2019181/hci/blob/2019181/projects/2019181/README.md#6%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF)|
-| 8 | 3η Άσκηση γραμμής εντολών [ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ]|(https://github.com/p2019181/hci/blob/2019181/projects/2019181/README.md#7%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF)|
-| 9 | 4η Άσκηση προγραμματισμού [ΑΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ]|(https://github.com/p2019181/hci/blob/2019181/projects/2019181/README.md#8%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF)|
-| 10 | 4η Άσκηση γραμμής εντολών [ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ]|()
+| 7 | 3η Άσκηση προγραμματισμού [ΑΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ](https://github.com/p2019181/hci/blob/2019181/projects/2019181/README.md#6%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF)|
+| 8 | 3η Άσκηση γραμμής εντολών [ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ](https://github.com/p2019181/hci/blob/2019181/projects/2019181/README.md#7%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF)|
+| 9 | 4η Άσκηση προγραμματισμού [ΑΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ](https://github.com/p2019181/hci/blob/2019181/projects/2019181/README.md#8%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF)|
+| 10 | 4η Άσκηση γραμμής εντολών [ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ]()
 | 11 | 2ο Συμμετοχικό Περιεχόμενο |
 | 12 | Τελική αναφορά |
 

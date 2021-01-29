@@ -64,7 +64,7 @@
 
 
 ## 6ο ΠΑΡΑΔΟΤΕΟ
-3η ΑΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ
+[3η ΑΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ](https://github.com/p2019181/site/blob/master/_remix/sortable-list.md)
 
 
 

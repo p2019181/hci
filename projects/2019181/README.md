@@ -66,6 +66,7 @@
 ## 6ο ΠΑΡΑΔΟΤΕΟ
 [3η ΑΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ](https://github.com/p2019181/site/blob/master/_remix/sortable-list.md)
 
+Επέλεξα την άσκηση προγραμμτισμού sortable-list όπου έπρεπε να 
 
 
 ## 7ο ΠΑΡΑΔΟΤΕΟ
